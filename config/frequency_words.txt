@@ -81,8 +81,6 @@ claude
 Anthropic
 
 iphone
-ipad
-mac
 ios
 
 ai
